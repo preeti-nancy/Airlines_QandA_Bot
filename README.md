@@ -1,2 +1,3 @@
 # Airlines_QandA_Bot
 This project compares baseline LLM answers, prompt-engineered responses, retrieval-augmented generation (RAG), and six tuned RAG configurations.
+Flykite Airlines employees need fast, trustworthy answers from a 14-page HR handbook covering probation, special leave, and anti-harassment policies. This project compares baseline LLM answers, prompt-engineered responses, retrieval-augmented generation (RAG), and six tuned RAG configurations. RAG with tuned retrieval raised average groundedness from 2.00 (baseline LLM) to 5.00 while maintaining relevance at 5.00/5. The best tuning setup (C1 Baseline) achieved 5.00 groundedness and 5.00 relevance, supporting a production HR self-service assistant with source citations and audit logs.
